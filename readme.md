@@ -1,1 +1,1 @@
-This is a version of opencv contrib containing fast bilateral space solver proposed by Jonathan.T.Barron and Ben Poole. I modified some files to that it can be successfully installed.
+This is a modified version of opencv contrib containing fast bilateral space solver proposed by Jonathan.T.Barron and Ben Poole. I modified some files to that it can be successfully installed. Specifically, I integrated the 'ximgproc' module with other modules from original opencv contrib category and modified some files in the 'ximgproc' module.
